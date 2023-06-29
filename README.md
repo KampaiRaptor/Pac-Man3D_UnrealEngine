@@ -9,7 +9,7 @@ You can play Windows version here: https://fansi.itch.io/squareman3d
 
 ## Gameplay
 
-![SquareManGameplay](https://github.com/KampaiRaptor/SquareMan-3DPackman-UnrealEngine/assets/120315901/843158df-6e31-4f8b-b037-86945f57041c)
+![SquareManGameplay](https://github.com/KampaiRaptor/Pac-Man3D_UnrealEngine/assets/120315901/43baed06-66a9-4e32-8d02-86b99d945c81)
 
 ## License
 
